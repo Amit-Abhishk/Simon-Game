@@ -2,15 +2,15 @@
 
 ## Table of contents
 
-- [Overview](#overview) 
- - [The challenge](#the-challenge) 
- - [Links](#links) 
-- [My process](#my-process) 
- - [Built with](#built-with) 
- - [What I learned](#what-i-learned) 
- - [Continued development](#continued-development)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-   - [Author](#author)
+  - [Author](#author)
 - [Acknowledgements](#acknowledgement)
 
 ## Overview
@@ -24,8 +24,8 @@
 
 ### Links
 
-- Solution URL:[Github](https://github.com/Amit-Abhishk/Simon-Game)
-- Live Site URL:[Simon-Game](https://amit-abhishk.github.io/Simon-Game)
+- Solution URL: [Github](https://github.com/Amit-Abhishk/Simon-Game)
+- Live Site URL: [Simon-Game](https://amit-abhishk.github.io/Simon-Game)
 
 ## My process
 
@@ -46,7 +46,7 @@ I need to learn jquery more to acknowledged myself with its vast library.
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing website which helped me finally understand html and css concepts. I'd recommend it to anyone still learning this concept. 
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing website which helped me finally understand html and css concepts. I'd recommend it to anyone still learning this concept.
 - [Udemy] -Web development Bootcamp
 
 ##Author
