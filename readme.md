@@ -49,7 +49,7 @@ I need to learn jquery more to acknowledged myself with its vast library.
 - [MDN](https://developer.mozilla.org/en-US/) - This is an amazing website which helped me finally understand html and css concepts. I'd recommend it to anyone still learning this concept.
 - [Udemy] -Web development Bootcamp
 
-###Author
+## Author
 
 - Website-[Simon-Game](https://amit-abhishk.github.io/Simon-Game/)
 - LinkedIn -[Amit Abhishek](https://www.linkedin.com/in/amit-a-322400107/)
